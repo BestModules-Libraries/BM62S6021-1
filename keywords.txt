@@ -1,0 +1,26 @@
+﻿#######################################
+# Syntax Coloring Map For BM62S6021_1
+#######################################
+
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM62S6021_1	KEYWORD1
+
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################	
+begin	KEYWORD2
+reset	KEYWORD2
+setID	KEYWORD2
+readLux	KEYWORD2
+readHistoricalLux	KEYWORD2
+clearHistoricallux	KEYWORD2
+calibrateLux	KEYWORD2
+resetCalibrateLux	KEYWORD2
+
+##############################################
+# Constants (LITERAL1)
+##############################################
+CHECK_OK	LITERAL1
+CHECK_ERR	LITERAL1
